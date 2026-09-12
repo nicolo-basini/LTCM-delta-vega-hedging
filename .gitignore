@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+Data/*.xlsx
+!Data/README.md
+
+outputs/*.xlsx
