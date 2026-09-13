@@ -21,6 +21,10 @@ All values below are expressed per option.
 
 The fixed-volatility counterfactual remains comparatively stable, indicating that the volatility shock—not the movement in interest rates—was the principal source of instability in the stylised short-option position. The rolling vega hedge materially limits the drawdown, but its option premium and time decay reduce the final NAV.
 
+## Strategy comparison
+
+![Comparison of the four hedging strategies during the 1998 crisis](figures/hedging_strategies_comparison.png)
+
 ## Methodology
 
 - Price a five-year European S&P 500 call with the Black-Scholes model.
